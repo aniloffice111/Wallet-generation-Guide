@@ -16,3 +16,9 @@ bun run build
 Step 4:
 
 bun start
+
+Last
+
+click the “PORTS” tab open link under forwarded address in browser
+
+That's it

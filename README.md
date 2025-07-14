@@ -13,3 +13,6 @@ Step 3:
 
 bun run build
 
+Step 4:
+
+bun start
